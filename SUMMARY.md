@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Hedonic Engineer](README.md)
-* [Introduction](<README (1).md>)
 
 ## 🌀 Respiration
 
@@ -12,18 +11,31 @@
 
 * [Embodiment Overview](embodiment/embodiment-overview/README.md)
   * [Bodywork](embodiment/embodiment-overview/bodywork.md)
+  * [Dance](embodiment/embodiment-overview/dance.md)
+  * [Sports](embodiment/embodiment-overview/sports.md)
+  * [Yoga](embodiment/embodiment-overview/yoga.md)
 
 ## 🎶 Music
 
 * [Music Overview](music/music-overview/README.md)
   * [Chanting](music/music-overview/chanting.md)
+  * [Drumming](music/music-overview/drumming.md)
+  * [Singing](music/music-overview/singing.md)
 
-## Sacraments
+## 🧪 Substances
 
-* [Sacraments Overview](sacraments/sacraments-overview/README.md)
-  * [Tobacco](sacraments/sacraments-overview/tobacco.md)
+* [Substances Overview](substances/substances-overview/README.md)
+  * [Alcohol](substances/substances-overview/alcohol.md)
+  * [Empathogens](substances/substances-overview/empathogens.md)
+  * [Gases](substances/substances-overview/gases.md)
+  * [Psychadelics](substances/substances-overview/psychadelics.md)
+  * [Tobacco](substances/substances-overview/tobacco.md)
+  * [Supplements](substances/substances-overview/supplements.md)
 
 ## 👫 Sex
 
 * [Sex Overview](sex/sex-overview/README.md)
+  * [BDSM](sex/sex-overview/bdsm.md)
+  * [Kink](sex/sex-overview/kink.md)
+  * [Orgasm](sex/sex-overview/orgasm.md)
   * [Tantra](sex/sex-overview/tantra.md)
