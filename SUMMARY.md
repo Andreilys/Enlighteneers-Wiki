@@ -11,7 +11,7 @@
   * [Sports](embodiment/embodiment-overview/sports.md)
   * [Yoga](embodiment/embodiment-overview/yoga.md)
 
-## 🎶 Music
+## 🎹 Music
 
 * [Overview](music/music-overview/README.md)
   * [Chanting](music/music-overview/chanting.md)
