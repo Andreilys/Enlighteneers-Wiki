@@ -1,3 +1,3 @@
-# Sex Overview
+# Overview
 
 Having sex isn't just about babies
