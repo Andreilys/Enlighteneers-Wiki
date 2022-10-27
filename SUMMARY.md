@@ -6,6 +6,7 @@
 
 * [Respiration Overview](respiration\_overview.md)
   * [Breathwork](breathwork.md)
+  * [Regular Breathing](respiration/respiration\_overview/regular-breathing.md)
 
 ## 💪 Embodiment
 
