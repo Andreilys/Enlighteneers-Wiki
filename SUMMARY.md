@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Hedonic Engineer](README.md)
+* [Introduction](README.md)
+* [Contribute](contribute.md)
 
 ## 💪 Embodiment
 
