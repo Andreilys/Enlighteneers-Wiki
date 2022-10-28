@@ -3,14 +3,6 @@
 * [Introduction](README.md)
 * [Contribute](contribute.md)
 
-## 💪 Embodiment
-
-* [Overview](embodiment/embodiment-overview/README.md)
-  * [Bodywork](embodiment/embodiment-overview/bodywork.md)
-  * [Dance](embodiment/embodiment-overview/dance.md)
-  * [Sports](embodiment/embodiment-overview/sports.md)
-  * [Yoga](embodiment/embodiment-overview/yoga.md)
-
 ## 🎹 Music
 
 * [Overview](music/music-overview/README.md)
@@ -18,11 +10,14 @@
   * [Drumming](music/music-overview/drumming.md)
   * [Singing](music/music-overview/singing.md)
 
-## 🌀 Respiration
+## 💪 Embodiment
 
-* [Overview](respiration\_overview.md)
-  * [Breathwork](breathwork.md)
-  * [Regular Breathing](respiration/respiration\_overview/regular-breathing.md)
+* [Overview](embodiment/embodiment-overview/README.md)
+  * [Bodywork](embodiment/embodiment-overview/bodywork.md)
+  * [Breathwork](embodiment/overview/breathwork.md)
+  * [Dance](embodiment/embodiment-overview/dance.md)
+  * [Sports](embodiment/embodiment-overview/sports.md)
+  * [Yoga](embodiment/embodiment-overview/yoga.md)
 
 ## 👫 Sex
 
