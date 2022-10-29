@@ -19,6 +19,16 @@
   * [Sports](embodiment/embodiment-overview/sports.md)
   * [Yoga](embodiment/embodiment-overview/yoga.md)
 
+## 🧪 Drugs
+
+* [Overview](drugs/overview/README.md)
+  * [Alcohol](drugs/overview/alcohol.md)
+  * [Empathogens](drugs/overview/empathogens.md)
+  * [Gases](drugs/overview/gases.md)
+  * [Psychadelics](drugs/overview/psychadelics.md)
+  * [Tobacco](drugs/overview/tobacco.md)
+  * [Supplements](drugs/overview/supplements.md)
+
 ## 👫 Sex
 
 * [Overview](sex/sex-overview/README.md)
@@ -26,13 +36,3 @@
   * [Kink](sex/sex-overview/kink.md)
   * [Orgasm](sex/sex-overview/orgasm.md)
   * [Tantra](sex/sex-overview/tantra.md)
-
-## 🧪 Substances
-
-* [Overview](substances/substances-overview/README.md)
-  * [Alcohol](substances/substances-overview/alcohol.md)
-  * [Empathogens](substances/substances-overview/empathogens.md)
-  * [Gases](substances/substances-overview/gases.md)
-  * [Psychadelics](substances/substances-overview/psychadelics.md)
-  * [Tobacco](substances/substances-overview/tobacco.md)
-  * [Supplements](substances/substances-overview/supplements.md)

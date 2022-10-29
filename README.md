@@ -1,9 +1,8 @@
 # Introduction
 
-From MESS\* comes bliss!
+Get our of your head, take your MEDS\*
 
-_\*Music, Embodiment, Sex, Substances_\
-__
+_\*Music, Embodiment, Drugs, Sex_
 
 
 
