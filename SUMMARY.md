@@ -13,6 +13,7 @@
 ## 💪 Embodiment
 
 * [Overview](embodiment/embodiment-overview/README.md)
+  * [Animal Flow](embodiment/embodiment-overview/animal-flow.md)
   * [Bodywork](embodiment/embodiment-overview/bodywork.md)
   * [Breathwork](embodiment/overview/breathwork.md)
   * [Dance](embodiment/embodiment-overview/dance.md)
@@ -22,7 +23,6 @@
 ## 🧪 Drugs
 
 * [Overview](drugs/overview/README.md)
-  * [Alcohol](drugs/overview/alcohol.md)
   * [Empathogens](drugs/overview/empathogens.md)
   * [Gases](drugs/overview/gases.md)
   * [Psychadelics](drugs/overview/psychadelics.md)
