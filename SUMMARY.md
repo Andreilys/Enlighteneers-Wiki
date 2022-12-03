@@ -8,7 +8,9 @@
 * [Overview](music/music-overview/README.md)
   * [Chanting](music/music-overview/chanting.md)
   * [Drumming](music/music-overview/drumming.md)
+  * [Therapy](music/music-overview/therapy.md)
   * [Singing](music/music-overview/singing.md)
+  * [Visualization](music/music-overview/visualization.md)
 
 ## 💪 Embodiment
 
